@@ -19,7 +19,7 @@ new Vue({
         {
           name: "Relaxing",
           artist: "Peace Life",
-          cover: "https://images.pexels.com/photos/450038/pexels-photo-450038.jpeg",
+          cover: "https://images.pexels.com/photos/450038/pexels-photo-450038.jpeg?auto=compress&cs=tinysrgb2&h=290&w=230",
           source: "https://cdn.pixabay.com/download/audio/2022/01/12/audio_45cacdef8f.mp3?filename=both-of-us-14037.mp3",
           url: "",
           favorited: false
@@ -27,7 +27,7 @@ new Vue({
         {
           name: "Chill",
           artist: "Peace Life",
-          cover: "https://images.pexels.com/photos/6577906/pexels-photo-6577906.jpeg",
+          cover: "https://images.pexels.com/photos/6577906/pexels-photo-6577906.jpeg?auto=compress&cs=tinysrgb2&h=290&w=230",
           source: "https://cdn.pixabay.com/download/audio/2021/11/30/audio_b946bb80da.mp3?filename=lofi-hip-hop-11489.mp3",
           url: "",
           favorited: true
@@ -35,7 +35,7 @@ new Vue({
         {
           name: "Meditation",
           artist: "Peace Life",
-          cover: "https://images.pexels.com/photos/8494957/pexels-photo-8494957.jpeg",
+          cover: "https://images.pexels.com/photos/8494957/pexels-photo-8494957.jpeg?auto=compress&cs=tinysrgb2&h=290&w=230",
           source: "https://cdn.pixabay.com/download/audio/2022/01/09/audio_7b83b170f4.mp3?filename=chilling-waves-ambient-chill-out-music-for-relaxation-13880.mp3",
           url: "",
           favorited: false
@@ -43,7 +43,7 @@ new Vue({
         {
           name: "OM Meditation",
           artist: "Peace Life",
-          cover: "https://images.pexels.com/photos/8436769/pexels-photo-8436769.jpeg",
+          cover: "https://images.pexels.com/photos/8436769/pexels-photo-8436769.jpeg?auto=compress&cs=tinysrgb2&h=290&w=230",
           source: "https://cdn.pixabay.com/download/audio/2021/05/26/audio_7746ffb8dd.mp3?filename=wear-headphones-om-meditation-to-energize-yourself-positively-we-appreciate-your-donation-it-helps-our-service-to-people-in-need-in-my-city-4677.mp3",
           url: "",
           favorited: false
@@ -51,7 +51,7 @@ new Vue({
         {
           name: "432 HZ",
           artist: "Peace Life",
-          cover: "https://images.pexels.com/photos/4107414/pexels-photo-4107414.jpeg",
+          cover: "https://images.pexels.com/photos/4107414/pexels-photo-4107414.jpeg?auto=compress&cs=tinysrgb2&h=290&w=230",
           source: "https://cdn.pixabay.com/download/audio/2021/11/08/audio_42f63ad575.mp3?filename=drifting-at-432-hz-unicorn-heads-10507.mp3",
           url: "",
           favorited: true
@@ -59,7 +59,7 @@ new Vue({
         {
           name: "OM 8D Meditation",
           artist: "Peace Life",
-          cover: "https://images.pexels.com/photos/8900263/pexels-photo-8900263.jpeg",
+          cover: "https://images.pexels.com/photos/8900263/pexels-photo-8900263.jpeg?auto=compress&cs=tinysrgb2&h=290&w=230",
           source: "https://cdn.pixabay.com/download/audio/2021/05/01/audio_9125683c48.mp3?filename=magnifico-mantra-om-8d-musica-para-transcender-som-para-meditar-mantra-renovador-de-energias-4224.mp3",
           url: "",
           favorited: false
@@ -67,7 +67,7 @@ new Vue({
         {
           name: "SKY",
           artist: "Peace Life",
-          cover: "https://images.pexels.com/photos/848573/pexels-photo-848573.jpeg",
+          cover: "https://images.pexels.com/photos/848573/pexels-photo-848573.jpeg?auto=compress&cs=tinysrgb2&h=290&w=230",
           source: "https://cdn.pixabay.com/download/audio/2021/08/23/audio_dfbee010eb.mp3?filename=autumn-sky-meditation-7618.mp3",
           url: "",
           favorited: true
@@ -75,7 +75,7 @@ new Vue({
         {
           name: "Rain Forest",
           artist: "Peace Life",
-          cover: "https://images.pexels.com/photos/1019980/pexels-photo-1019980.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+          cover: "https://images.pexels.com/photos/1019980/pexels-photo-1019980.jpeg?auto=compress&cs=tinysrgb2&h=290&w=230",
           source: "https://cdn.pixabay.com/download/audio/2020/12/30/audio_31b7f16d46.mp3?filename=rain-forest-sleep-yoga-meditation-relaxation-2044.mp3",
           url: "",
           favorited: false
@@ -83,7 +83,7 @@ new Vue({
         {
           name: "River",
           artist: "Peace Life",
-          cover: "https://images.pexels.com/photos/119866/pexels-photo-119866.jpeg",
+          cover: "https://images.pexels.com/photos/119866/pexels-photo-119866.jpeg?auto=compress&cs=tinysrgb2&h=290&w=230",
           source: "https://cdn.pixabay.com/download/audio/2021/09/06/audio_d319914b2b.mp3?filename=the-old-water-mill-meditation-8005.mp3",
           url: "",
           favorited: false
