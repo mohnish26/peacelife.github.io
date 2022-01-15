@@ -19,7 +19,7 @@ new Vue({
         {
           name: "Relaxing",
           artist: "Peace Life",
-          cover: "https://images.pexels.com/photos/450038/pexels-photo-450038.jpeg?auto=compress&cs=tinysrgb2&h=290&w=230",
+          cover: "https://images.pexels.com/photos/450038/pexels-photo-450038.jpeg?auto=compress&cs=tinysrgb2&h=500&w=500",
           source: "https://cdn.pixabay.com/download/audio/2022/01/12/audio_45cacdef8f.mp3?filename=both-of-us-14037.mp3",
           url: "",
           favorited: false
